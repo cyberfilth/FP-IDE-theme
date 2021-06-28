@@ -1,2 +1,4 @@
 # FP-IDE-theme
-Colour theme for the Free Pascal IDE
+Dark and cyan colour scheme for the Free Pascal IDE
+
+![Ubuntu screenshot](theme.png)
