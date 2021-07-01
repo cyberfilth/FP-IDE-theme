@@ -15,64 +15,64 @@ Index	Element
 3	Menu unavailable greyed-out elements
 4	Menu normal shortcut highlights
 5	Menu selected item highlight
-6	 Menu item (selected disabled)
+6	Menu item (selected disabled)
 7	Menu selected item shortcut highlight
-8	 Debug 
-9	 Debug 
-10	 Debug 
-11	 Debug 
-12	 Debug 
-13	 Debug 
-24	Tools > Ascii table characters
-25	Tools > Ascii table borders
-26	 Ascii table border move and close window
-32	Dialog tabs body
-33	Dialog main body
-34	Dialog border buttons
-35	Dialog scroll bar trough
-36	Dialog scroll bar arrows and thumb
-37	Pop-up message text color
-38	Dialog inactive group title
-39	Dialog active group title
-40	Dialog element shortcut highlight
-41	Dialog inactive button
-42	Dialog highlighted button, cursor is not on it
-43	Dialog active button, cursor is on it
-45	Dialog button shortcut highlight
-46	Dialog button drop shadow
-47	Dialog checkbox/radio button list
-48	Dialog checkbox/radio button list selected item
-49	Dialog checkbox/radio button list shortcut highlight
-50	Dialog editable text field
-51	Dialog editable text field selected text
-52	 Dialog. indicator > Line contains more text
-53	Dialog dropdown list arrow
-54	Dialog dropdown list arrow brackets?
-55	 Dialog. Drop down scroll bar
-56	 Dialog. Drop down scroll bar arrows
-57	 Dialog. Multi line text
-58	 Dialog. Select one line of multi line text (active)
-59	 Dialog. Select one line of multi line text (INactive)
-60	 Dialog. separator line
-61	 Dialog. info block
-96	 Debug Watch border of inactive window / register watch inactive background
-97	 Debug Watch border of active window
-98	 Debug Watch border on move / close / minimize / maximize
-99	 Debug Watch scroll bar arrows
-100	 Debug Watch scroll bar arrows
-101	 Debug Watch inactive line color (only Background)
-102	 Debug Register view registers
-121	 Debug Watch inactive line color (only Foreground)
-121	 Help Scroll bar
-122	 Debug Watch active line color
-122	 Help Scroll bar arrows
-160	 Help Body
-161	 Help Link
-162	 Help Link active
-163	 Help Selected text (Background color only)
-164	 Help border inactive
-165	 Help border move / close / minimize / maximize
-166	 Help border active
+8	Debug -> Output User Screen Border of inactive window 
+9	Debug-> Output User Screen Border 
+10 Debug -> Output User Screen Close / Minimize / Maximize / Move window
+11 Debug -> Output User Screen Scroll bars
+12 Debug -> Output User Screen Scroll arrows of bars
+13 Debug -> Output User Screen body window
+24 Tools > Ascii table characters
+25 Tools > Ascii table borders
+26 Ascii table border move and close window
+32 Dialog tabs body
+33 Dialog main body
+34 Dialog border buttons
+35 Dialog scroll bar trough
+36 Dialog scroll bar arrows and thumb
+37 Pop-up message text color
+38 Dialog inactive group title
+39 Dialog active group title
+40 Dialog element shortcut highlight
+41 Dialog inactive button
+42 Dialog highlighted button, cursor is not on it
+43 Dialog active button, cursor is on it
+45 Dialog button shortcut highlight
+46 Dialog button drop shadow
+47 Dialog checkbox/radio button list
+48 Dialog checkbox/radio button list selected item
+49 Dialog checkbox/radio button list shortcut highlight
+50 Dialog editable text field
+51 Dialog editable text field selected text
+52 Dialog. indicator > Line contains more text
+53 Dialog dropdown list arrow
+54 Dialog dropdown list arrow brackets?
+55 Dialog. Drop down scroll bar
+56 Dialog. Drop down scroll bar arrows
+57 Dialog. Multi line text
+58 Dialog. Select one line of multi line text (active)
+59 Dialog. Select one line of multi line text (INactive)
+60 Dialog. separator line
+61 Dialog. info block
+96 Debug Watch border of inactive window / register watch inactive background
+97 Debug Watch border of active window
+98 Debug Watch border on move / close / minimize / maximize
+99 Debug Watch scroll bar arrows
+100 Debug Watch scroll bar arrows
+101 Debug Watch inactive line color (only Background)
+102 Debug Register view registers
+121 Debug Watch inactive line color (only Foreground)
+121 Help Scroll bar
+122	Debug Watch active line color
+122	Help Scroll bar arrows
+160	Help Body
+161	Help Link
+162	Help Link active
+163	Help Selected text (Background color only)
+164	Help border inactive
+165	Help border move / close / minimize / maximize
+166	Help border active
 167	Editing window borders, inactive
 168	Editing window borders, active
 169	Editing window border buttons
