@@ -10,15 +10,15 @@ To use this theme, either replace your local fp.ini file with this one, or copy 
 
 <pre>
 Index	Element
-1	Desktop color, if all windows are closed and fp.ans is not available
-2	Menu bar, normal menu elements
-3	Menu unavailable greyed-out elements
-4	Menu normal shortcut highlights
-5	Menu selected item highlight
-6	Menu item (selected disabled)
-7	Menu selected item shortcut highlight
-8	Debug -> Output User Screen Border of inactive window 
-9	Debug-> Output User Screen Border 
+1 Desktop color, if all windows are closed and fp.ans is not available
+2 Menu bar, normal menu elements
+3 Menu unavailable greyed-out elements
+4 Menu normal shortcut highlights
+5 Menu selected item highlight
+6 Menu item (selected disabled)
+7 Menu selected item shortcut highlight
+8 Debug -> Output User Screen Border of inactive window 
+9 Debug-> Output User Screen Border 
 10 Debug -> Output User Screen Close / Minimize / Maximize / Move window
 11 Debug -> Output User Screen Scroll bars
 12 Debug -> Output User Screen Scroll arrows of bars
